@@ -20,7 +20,7 @@ Perfect for showcasing creative products or portfolios.
 ## 📦 How to Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/cyber-bawa.git
+git clone https://github.com/manasranjanjena68/cyber-bawa.git
 
 # Open index.html in your browser
 
