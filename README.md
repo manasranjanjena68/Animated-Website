@@ -3,7 +3,11 @@
 A modern, futuristic landing page powered by **Spline 3D** and custom **Glassmorphism UI design**.  
 Perfect for showcasing creative products or portfolios.
 
-![Cyber Bawa Preview](preview.png)
+
+🌍 Live Demo
+
+[Click the link and see the magic](https://manasranjanjena68.github.io/Animated-Website/)
+
 
 ## 🌟 Features
 - **3D Interactive Background** using [Spline](https://spline.design/)
@@ -24,6 +28,3 @@ git clone https://github.com/manasranjanjena68/cyber-bawa.git
 
 # Open index.html in your browser
 
-🌍 Live Demo
-
-[Click the link and see the magic](https://manasranjanjena68.github.io/Animated-Website/)
